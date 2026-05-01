@@ -1,0 +1,19 @@
+{
+    "active_version": 1,
+    "versions": {
+        "1": {
+            "created_at": "2026-01-05T16:08:17+01:00",
+            "rsa_pub": {
+                "n": "b33ad7705a0e467dab4404a78baf61f0e10f4c25c644f6e0340efc5fce8ecbaf753b971541a6b39439231e205dab98985a223d4418707ef2ce691ec216eede3b498a4705fffbf4219897366d33a72ba6b52bf156e06c5f175e036ee538a3a9b22cafa28fcc44d355bce6f62b877574fcd6630d5721245b5e5b7c657668ca859b9ed6ef51cda0718d2f115f3a66c6b1185d061929c69eeaa8fe43db1ec8fd6a544daa47f883b2c3f5097449883a2ea5a7e2ff7f60c73baf7861a46a55b9f19da58b051a972a380f008e3c42c7a683b7afd068563ffcc24628174991eb0c1f296efefdb0921390c1f49a59820399132296ba93b3f9439360bf58cac246755cdb5f",
+                "e": "010001",
+                "bits": 2048
+            },
+            "ecc_pub": {
+                "uncompressed_b64": "BNpwrVoOm1RGbVkNGPebVUvRClcKTuRf3FHV5tbnREN9ozTEjrFrFb+QpUU2mEdYWFstRaP/NSeB5lulrozMDP8=",
+                "curve": "secp256k1"
+            },
+            "rsa_priv_path": "C:\\xampp\\secure_keys\\rsa_priv_v1.json",
+            "ecc_priv_path": "C:\\xampp\\secure_keys\\ecc_priv_v1.json"
+        }
+    }
+}

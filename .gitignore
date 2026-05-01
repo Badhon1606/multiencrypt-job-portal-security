@@ -1,0 +1,19 @@
+# Private keys — never commit
+secure_keys/
+
+# Database credentials
+db.php
+
+# Uploads (user data)
+uploads/
+
+# Composer binaries
+composer.phar
+composer-setup.php
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
