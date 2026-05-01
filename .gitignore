@@ -11,6 +11,10 @@ uploads/
 composer.phar
 composer-setup.php
 
+# Redundant archives and stray files
+keymgmt.zip
+dads.pdf
+
 # OS & editor files
 .DS_Store
 Thumbs.db
